@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/Users/hosf/Development/CppAndroidIosExample/Android/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/hosf/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/hosf/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hosf/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../../../CPP  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o -c /Users/hosf/Development/CppAndroidIosExample/Android/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/hosf/Development/CppAndroidIosExample/Android/app/src/main/cpp/native-lib.cpp"
+},
+
+{
+  "directory": "/Users/hosf/Development/CppAndroidIosExample/Android/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/hosf/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/hosf/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hosf/Library/Android/sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I../../../../../../CPP  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++14 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/Users/hosf/Development/CppAndroidIosExample/CPP/Core.cpp.o -c /Users/hosf/Development/CppAndroidIosExample/CPP/Core.cpp",
+  "file": "/Users/hosf/Development/CppAndroidIosExample/CPP/Core.cpp"
+}
+]

@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/hosf/Development/CppAndroidIosExample/Android/app/.cxx/cmake/debug/armeabi-v7a'
+ninja: no work to do.
